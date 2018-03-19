@@ -1,4 +1,3 @@
-# ReactTest
+# React App
 
-
-//Adding line
+# Master Branch
